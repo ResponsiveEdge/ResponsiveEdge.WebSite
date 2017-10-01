@@ -1,0 +1,6 @@
+[submodule "themes/hugo-agency-theme"]
+	path = themes/hugo-agency-theme
+	url = https://github.com/digitalcraftsman/hugo-agency-theme.git
+[submodule "public"]
+	path = public
+	url = https://github.com/responsiveedge/responsiveedge.github.io.git
