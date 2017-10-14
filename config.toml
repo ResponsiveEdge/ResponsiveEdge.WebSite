@@ -147,6 +147,10 @@ googleAnalytics = ""
         logo = "SMUC-Belfast.jpg"
         link = "//www.stmarys-belfast.ac.uk"
 
+      [[params.clients]]
+        logo = "AAC-sunburst-logo-704x250.jpg"
+        link = "//www.allergyatlanta.com"
+
   # Contact section
   [params.contact]
     enable = true
