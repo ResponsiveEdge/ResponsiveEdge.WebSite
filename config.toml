@@ -136,6 +136,10 @@ googleAnalytics = ""
       # Replace them with your clients's logos.
       # Suggestion: .svg in the size of 280px*80px looks good
       [[params.clients]]
+        logo = "VLAlogo1.jpg"
+        link = "//www.vtlegalaid.org"
+		
+      [[params.clients]]
         logo = "blackbird-studios.png"
         link = "//www.blackbird-studios.io"
 
