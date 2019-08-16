@@ -138,22 +138,34 @@ googleAnalytics = ""
       [[params.clients]]
         logo = "VLAlogo1.jpg"
         link = "//www.vtlegalaid.org"
-		
-      [[params.clients]]
-        logo = "blackbird-studios.png"
-        link = "//www.blackbird-studios.io"
 
       [[params.clients]]
-        logo = "elite-training.png"
-        link = "//www.elitetraining.com"
+        logo = "Provalus.png"
+        link = "//provalus.com/"
 
       [[params.clients]]
         logo = "SMUC-Belfast.jpg"
         link = "//www.stmarys-belfast.ac.uk"
 
       [[params.clients]]
+        logo = "elite-training.png"
+        link = "//www.elitetraining.com"
+
+      [[params.clients]]
         logo = "AAC-sunburst-logo-704x250.jpg"
         link = "//www.allergyatlanta.com"
+
+      [[params.clients]]
+        logo = "blackbird-studios.png"
+        link = "//blackbird.us/"
+
+      [[params.clients]]
+        logo = "centurionsoftwaregroup.JPG"
+        link = "//centurionsoftwaregroup.com/"
+
+      [[params.clients]]
+        logo = "Sovare.jpg"
+        link = "http://www.sovaresolutions.com/"
 
   # Contact section
   [params.contact]
