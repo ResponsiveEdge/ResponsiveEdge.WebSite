@@ -1,5 +1,5 @@
 # Site settings
-baseurl = ""
+baseurl = "https://www.responsiveedge.com"
 languageCode = "en-us"
 title = "Responsive Edge"
 theme = "hugo-agency-theme"
@@ -195,8 +195,8 @@ googleAnalytics = ""
     email = "responsive.edge@gmail.com"
 
     # Success and error message overwrite for async contact form
-    #thanks = "Thank you for awesomely contacting us."
-    #error = "Message could not be send. Please contact us at mail@example.com instead."
+    thanks = "Thank you for contacting us."
+    error = "Message could not be sent. Please contact us at responsive.edge@gmail.com instead."
 
     # 'warning' defines error messages for invalid inputs
     [params.contact.form.name]
